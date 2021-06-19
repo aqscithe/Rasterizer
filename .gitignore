@@ -1,0 +1,9 @@
+*.user
+.vs
+x64
+app/x64
+app/assets/*.7z
+renderer/x64
+scene/x64
+
+app/imgui.ini

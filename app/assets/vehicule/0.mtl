@@ -1,0 +1,128 @@
+# Blender MTL File: 'MRL-V.blend'
+# Material Count: 9
+
+newmtl 24_Exterior1_0.3_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.776515 0.439461 0.538078
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Landing Vehicle,Mass Effect Andromeda\b_d.tga
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Landing Vehicle,Mass Effect Andromeda\\b_n.tga
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Landing Vehicle,Mass Effect Andromeda\\b_s.tga
+map_d D:\\Dropbox\\Shared Files\\XPS\\Landing Vehicle,Mass Effect Andromeda\\b_d.tga
+
+newmtl 24_Exterior2_0.3_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.507235 0.475025 0.779134
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Landing Vehicle,Mass Effect Andromeda\a_d.tga
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Landing Vehicle,Mass Effect Andromeda\\a_n.tga
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Landing Vehicle,Mass Effect Andromeda\\a_s.tga
+map_d D:\\Dropbox\\Shared Files\\XPS\\Landing Vehicle,Mass Effect Andromeda\\a_d.tga
+
+newmtl 24_T0_0.3_
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.444497 0.737106 0.634334
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Landing Vehicle,Mass Effect Andromeda\a_d.tga
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Landing Vehicle,Mass Effect Andromeda\\a_n.tga
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Landing Vehicle,Mass Effect Andromeda\\a_s.tga
+map_d D:\\Dropbox\\Shared Files\\XPS\\Landing Vehicle,Mass Effect Andromeda\\a_d.tga
+
+newmtl 24_T1_0.3_.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.768771 0.565505 0.616074
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Landing Vehicle,Mass Effect Andromeda\a_d.tga
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Landing Vehicle,Mass Effect Andromeda\\a_n.tga
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Landing Vehicle,Mass Effect Andromeda\\a_s.tga
+map_d D:\\Dropbox\\Shared Files\\XPS\\Landing Vehicle,Mass Effect Andromeda\\a_d.tga
+
+newmtl 24_T2l_0.3_.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.705580 0.748065 0.741597
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Landing Vehicle,Mass Effect Andromeda\a_d.tga
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Landing Vehicle,Mass Effect Andromeda\\a_n.tga
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Landing Vehicle,Mass Effect Andromeda\\a_s.tga
+map_d D:\\Dropbox\\Shared Files\\XPS\\Landing Vehicle,Mass Effect Andromeda\\a_d.tga
+
+newmtl 24_T2r_0.3_
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.430113 0.670905 0.552285
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Landing Vehicle,Mass Effect Andromeda\a_d.tga
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Landing Vehicle,Mass Effect Andromeda\\a_n.tga
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Landing Vehicle,Mass Effect Andromeda\\a_s.tga
+map_d D:\\Dropbox\\Shared Files\\XPS\\Landing Vehicle,Mass Effect Andromeda\\a_d.tga
+
+newmtl 24_T3l_0.3_.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.474818 0.499648 0.706083
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Landing Vehicle,Mass Effect Andromeda\a_d.tga
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Landing Vehicle,Mass Effect Andromeda\\a_n.tga
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Landing Vehicle,Mass Effect Andromeda\\a_s.tga
+map_d D:\\Dropbox\\Shared Files\\XPS\\Landing Vehicle,Mass Effect Andromeda\\a_d.tga
+
+newmtl 24_T3r_0.3_.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.520059 0.421118 0.517734
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Landing Vehicle,Mass Effect Andromeda\a_d.tga
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Landing Vehicle,Mass Effect Andromeda\\a_n.tga
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Landing Vehicle,Mass Effect Andromeda\\a_s.tga
+map_d D:\\Dropbox\\Shared Files\\XPS\\Landing Vehicle,Mass Effect Andromeda\\a_d.tga
+
+newmtl 24_wheel_0.3_0_0.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.602899 0.669153 0.559969
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Landing Vehicle,Mass Effect Andromeda\w_d.tga
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Landing Vehicle,Mass Effect Andromeda\\w_n.tga
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Landing Vehicle,Mass Effect Andromeda\\w_s.tga
+map_d D:\\Dropbox\\Shared Files\\XPS\\Landing Vehicle,Mass Effect Andromeda\\w_d.tga

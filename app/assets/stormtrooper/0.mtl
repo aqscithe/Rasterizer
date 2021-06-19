@@ -1,0 +1,41 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl 4_Helmet_M
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.595755 0.548093 0.616458
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd t_imperial_stormtrooper_male_01_helmet_cs.TGA
+map_Bump t_imperial_stormtrooper_male_01_helmet_nm.TGA
+map_d t_imperial_stormtrooper_male_01_helmet_cs.TGA
+
+newmtl 4_LowerBody_M
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.701097 0.582121 0.609544
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd t_imperial_stormtrooper_male_01_lowerbody_cs.TGA
+map_Bump t_imperial_stormtrooper_male_01_lowerbody_nm.TGA
+map_d t_imperial_stormtrooper_male_01_lowerbody_cs.TGA
+
+newmtl 4_UpperBody_M
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.675884 0.685075 0.669997
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd t_imperial_stormtrooper_male_01_upperbody_cs.TGA
+map_Bump t_imperial_stormtrooper_male_01_upperbody_nm.tga
+map_d t_imperial_stormtrooper_male_01_upperbody_cs.TGA
